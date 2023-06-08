@@ -1,0 +1,27 @@
+{
+  "name": "web-socket-com-node---foco-em-noficacoes",
+  "version": "1.0.0",
+  "description": "<Objetivo Principal>\r <p>Este estudo tem como foco testar um ambinente Node para troca de mensagens de forma instantânea usando web sockets.</p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogopaza/Web-socket-com-Node---Foco-em-Noficacoes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogopaza/Web-socket-com-Node---Foco-em-Noficacoes/issues"
+  },
+  "homepage": "https://github.com/diogopaza/Web-socket-com-Node---Foco-em-Noficacoes#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
